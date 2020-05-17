@@ -15,11 +15,12 @@ namespace EqualSumsAnd
             int end = int.Parse(Console.ReadLine());
             for (int i = start; i <= end; i++)
             {
+              //catch every digit as a string
                string currentNumber= i.ToString();
                 int oddCounter = 0;
                 int evenCounter = 0;
                 for (int j = 0; j < currentNumber.Length; j++)
-                {   
+                {
                     if (j % 2 == 0)
                     {
                         evenCounter += int.Parse(currentNumber[j].ToString());
