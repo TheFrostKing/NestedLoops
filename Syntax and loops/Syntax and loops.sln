@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syntax and loops", "Syntax and loops\Syntax and loops.csproj", "{F000706A-4F4F-4A14-BD1E-4FE2E484C609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F000706A-4F4F-4A14-BD1E-4FE2E484C609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F000706A-4F4F-4A14-BD1E-4FE2E484C609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F000706A-4F4F-4A14-BD1E-4FE2E484C609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F000706A-4F4F-4A14-BD1E-4FE2E484C609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B2966A-530D-49C0-95D1-2FC5FF2208DF}
+	EndGlobalSection
+EndGlobal
